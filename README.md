@@ -1,0 +1,2 @@
+# BjStart
+Este projeto tem como criar um site simples, Como as empresas podem solicitar consultoria em informática, Criação de sites, Pedidos de criação de aplicativos, ele ainda deve conter um Cronograma de Aulas e monitores e ainda conter um campo de exibição dos trabalhos científicos já realizados por mim.  Você pode contribuir para ajudar a desenvolver e orientar, com o objetivo de desenvolver minhas habilidades no desenvolvimento web. :)
